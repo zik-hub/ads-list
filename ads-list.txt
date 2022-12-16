@@ -1,1 +1,11 @@
 #PiHole#
+
+
+pixel.facebook.com  
+analytics.facebook.com
+ads.facebook.com
+an.facebook.com
+widgets.pinterest.com
+metrics1.data.hicloud.com
+metrics5.data.hicloud.com
+samsung-com.112.2o7.net
