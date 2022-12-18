@@ -9,3 +9,4 @@ widgets.pinterest.com
 metrics1.data.hicloud.com
 metrics5.data.hicloud.com
 samsung-com.112.2o7.net
+c2c24.pl
