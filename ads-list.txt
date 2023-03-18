@@ -1,5 +1,5 @@
 #PiHole#
-#v.14.03.23#
+#v.18.03.23#
 
 
 pixel.facebook.com  
@@ -12,3 +12,4 @@ metrics5.data.hicloud.com
 samsung-com.112.2o7.net
 c2c24.pl
 polska01.enchantevent.com
+ww1.lu.bie.to
