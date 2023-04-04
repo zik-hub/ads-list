@@ -1,29 +1,30 @@
 #PiHole#
-#v.18.03.23#
+#v.04.04.23#
 
 
-pixel.facebook.com  
-analytics.facebook.com
-ads.facebook.com
-an.facebook.com
-widgets.pinterest.com
-metrics1.data.hicloud.com
-metrics5.data.hicloud.com
-samsung-com.112.2o7.net
-c2c24.pl
-polska01.enchantevent.com
-ww1.lu.bie.to
-yt1.googleusercontent.com	
-yt2.googleusercontent.com	
-yt3.googleusercontent.com	
-yt4.googleusercontent.com	
-yt5.googleusercontent.com	
-yt6.googleusercontent.com	
-yt7.googleusercontent.com	
-yt8.googleusercontent.com	
-yt9.googleusercontent.com	
-rr2---sn-4g5e6nsz.googlevideo.com	
-rr1---sn-4g5edn6y.googlevideo.com	
-r1---sn-aigzrnld.googlevideo.com	
-rr5---sn-4g5edndy.googlevideo.com	
-rr3---sn-4g5lzney.googlevideo.com	
+0.0.0.0 pixel.facebook.com  
+0.0.0.0 analytics.facebook.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 metrics1.data.hicloud.com
+0.0.0.0 metrics5.data.hicloud.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 c2c24.pl
+0.0.0.0 polska01.enchantevent.com
+0.0.0.0 ww1.lu.bie.to
+0.0.0.0 yt1.googleusercontent.com	
+0.0.0.0 yt2.googleusercontent.com	
+0.0.0.0 yt3.googleusercontent.com	
+0.0.0.0 yt4.googleusercontent.com	
+0.0.0.0 yt5.googleusercontent.com	
+0.0.0.0 yt6.googleusercontent.com	
+0.0.0.0 yt7.googleusercontent.com	
+0.0.0.0 yt8.googleusercontent.com	
+0.0.0.0 yt9.googleusercontent.com	
+0.0.0.0 rr2---sn-4g5e6nsz.googlevideo.com	
+0.0.0.0 rr1---sn-4g5edn6y.googlevideo.com	
+0.0.0.0 r1---sn-aigzrnld.googlevideo.com	
+0.0.0.0 rr5---sn-4g5edndy.googlevideo.com	
+0.0.0.0 rr3---sn-4g5lzney.googlevideo.com	
+0.0.0.0 samsungurzednik2023jos.blogspot.com
