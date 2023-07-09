@@ -1,5 +1,5 @@
 #PiHole#
-#v.04.04.23#
+#v.09.07.23#
 
 
 0.0.0.0 pixel.facebook.com  
@@ -28,3 +28,4 @@
 0.0.0.0 rr5---sn-4g5edndy.googlevideo.com	
 0.0.0.0 rr3---sn-4g5lzney.googlevideo.com	
 0.0.0.0 samsungurzednik2023jos.blogspot.com
+0.0.0.0 http://oistatniarundka.click/
